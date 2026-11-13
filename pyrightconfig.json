@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DetachHead/basedpyright/main/packages/vscode-pyright/schemas/pyrightconfig.schema.json",
+  "exclude": [
+    "**/__pycache__",
+    ".venv",
+    "venv",
+    "logs"
+  ],
+  "venv": ".venv",
+  "venvPath": ".",
+  "typeCheckingMode": "standard",
+  "reportUnusedImport": "warning",
+  "reportUnusedVariable": "warning",
+  "pythonVersion": "3.12"
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "provider_id": "DEEPSEEK",
+        "voice_name": "deepseek-stella",
+        "api_parameters": {
+            "audio_format_type": "pcm",
+            "voice_id": "stella",
+            "filter_markdown": true
+        }
+    },
+    {
+        "provider_id": "DEEPSEEK",
+        "voice_name": "deepseek-tide",
+        "api_parameters": {
+            "audio_format_type": "pcm",
+            "voice_id": "tide",
+            "filter_markdown": true
+        }
+    },
+    {
+        "provider_id": "FISH_AUDIO",
+        "voice_name": "fish-s2.1-pro-default",
+        "api_parameters": {
+            "model": "s2.1-pro-free",
+            "format": "pcm",
+            "latency": "normal"
+        }
+    }
+]

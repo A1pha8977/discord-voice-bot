@@ -1,0 +1,25 @@
+# Secrets
+\.env
+
+# Python
+__pycache__/
+*.pyc
+\.venv*/
+\.ruff_cache
+
+# IDE / Editor
+\.zed/
+\.vscode/
+
+# coding agent
+\.opencode/
+\.unipi/
+
+
+# Project local overrides (not versioned)
+config/*
+!config/*.example.json
+
+
+# Logs
+logs/
