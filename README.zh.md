@@ -1,8 +1,8 @@
-# my-tts-bot
+# discord-voice-bot
 
 [English](README.md)
 
-my-tts-bot 是一个用于 Discord 语音频道的机器人，支持播放本地音频文件，以及通过 DeepSeek 和 Fish Audio 实现多音色文本转语音（TTS）。
+discord-voice-bot 是一个用于 Discord 语音频道的机器人，支持播放本地音频文件，以及通过 DeepSeek 和 Fish Audio 实现多音色文本转语音（TTS）。
 
 ## 部署方式
 

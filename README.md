@@ -1,8 +1,8 @@
 中文版：[README.zh.md](README.zh.md)
 
-# my-tts-bot
+# discord-voice-bot
 
-my-tts-bot is a bot for Discord voice channels. It plays local audio files and provides multi-voice text-to-speech (TTS) through DeepSeek and Fish Audio.
+discord-voice-bot is a bot for Discord voice channels. It plays local audio files and provides multi-voice text-to-speech (TTS) through DeepSeek and Fish Audio.
 
 ## Deployment
 
